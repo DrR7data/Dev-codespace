@@ -1,5 +1,5 @@
 flask
-pyllint
+pylint
 black
 click
 pytest
