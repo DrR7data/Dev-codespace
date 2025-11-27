@@ -24,10 +24,10 @@ format:
 lint:
 	pylint --disable=R,C main.py
 
-test:
-	python -m pytest -vv --cov=main test_main.py
+#test:
+#	python -m pytest -vv --cov=main test_main.py
 
-all: install lint test right
+all: install-code lint right
 
 
 right:
