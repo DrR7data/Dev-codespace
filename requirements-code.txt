@@ -1,0 +1,5 @@
+flask
+lint
+black
+click
+pytest
