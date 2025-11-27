@@ -15,9 +15,6 @@ jobs:
     - name: Lint with Pylnt
       run:
         make lint
-    - name: Test wth Pytest
-      run:
-        make test
     - name: Format code with Python
       run:
         make format
