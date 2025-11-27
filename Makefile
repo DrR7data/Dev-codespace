@@ -35,5 +35,5 @@ right:
 
 source:
 	#ssh-keygen -t rsa
-	#python3 -m venv ~/.dev
-	#source ~/.dev/bin/activate
+	python3 -m venv ~/.dev
+	source ~/.dev/bin/activate
