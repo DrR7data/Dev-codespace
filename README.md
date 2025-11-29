@@ -1,5 +1,13 @@
 # Dev-codespace
 
+# dvops-Code
+This is Python and docker for DevOps codespace Repo
+# What is does
+This is basic cookbook for building Command-line tools for the modern era:
+
+* Click CLI tool with full continuous integration
+* Docler ClI
+
 ```Bash
     python3 -m venv ~/.dev
     source ~/.dev/bin/activate

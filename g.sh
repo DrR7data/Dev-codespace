@@ -2,7 +2,7 @@
 
 git add .
 
-git commit -m "Complete work"
+git commit -m "Adding Change"
 
 git push
 
